@@ -1,16 +1,21 @@
-## Hi there 👋
+# MApple
 
-<!--
-**MAppleDm/MAppleDm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Android apps that make everyday tasks easier, with Kotlin and Jetpack Compose.
+My projects keep data on the device and use AI for conversational input, with your own API key.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [FatCodex](https://github.com/MAppleDm/FatCodex) | A food diary: log meals in text, by voice, or from a photo; review calories and macros. | Kotlin · Jetpack Compose · Room |
+| [VibeNotes](https://github.com/MAppleDm/VibeNotes) | Markdown notes, Kanban tasks, and calendar events through one chat interface. | Kotlin · Jetpack Compose · Markdown |
+
+Both are personal projects in active development. The repositories include source code, build instructions, and downloadable Android builds.
+
+## What I care about
+
+- **Data you control.** Local storage, readable exports, and your own API keys.
+- **Clear AI actions.** Review a proposal before it changes your data.
+- **Small, useful interfaces.** A short path from an idea to a recorded meal, note, task, or event.
+
+English and Russian documentation is available in each repository.
